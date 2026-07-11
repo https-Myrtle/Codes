@@ -1,11 +1,9 @@
-#Author Myrtle Argote
+#Author Myrtle
 #Date 007/09/2026
-
 '''
 Projected sales
 sales * 0.23
 print answer
-
 '''
 sales = input('Enter the projected sales: ')
 result = float(sales) * 23 / 100
