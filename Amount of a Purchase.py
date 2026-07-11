@@ -1,4 +1,4 @@
-#Author Myrtle Abigail
+#Author Myrtle 
 #Date 07/10/2026
 '''
 prompt purchase price and amount
