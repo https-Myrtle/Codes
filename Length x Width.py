@@ -1,16 +1,20 @@
 #Autor Myrtle Argote
 #Date 07/08/2026
-
 '''
 length x Width
-
-input L x W of two rectangle
-
-if 
-
+INPUT L1, W1, L2, W2
+result_1 = L1 * W1
+result_2 = L2 * W2
+IF result_1 > result_2 THEN
+    DISPLAY result_1, result_2
+    DISPLAY "Area A is greater than Area B."
+ELSE IF result_1 < result_2 THEN
+    DISPLAY result_1, result_2
+    DISPLAY "Area B is greater than Area A."
+ELSE
+    DISPLAY result_1, result_2
+    DISPLAY "Area A is equal to Area B."
 '''
-
-
 value_1 = input('L1: ')
 value_2 = input('W1: ')
 value_3 = input('L2: ')
