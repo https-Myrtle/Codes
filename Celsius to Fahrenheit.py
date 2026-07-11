@@ -1,4 +1,4 @@
-#Author Myrtle Argote
+#Author Myrtle
 #Date 07/07/2026
 
 '''
