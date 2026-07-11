@@ -1,6 +1,5 @@
-#author myrtle abigail argote
+#author Myrtle 
 #07/03/2026
-
 '''
 input prices 1 - 5
 subtotal is prices of 1 - 5
@@ -9,7 +8,6 @@ result is subtotal + subtotal
 print answer
 Everything is supposed to be rounded it into 2 decimals
 '''
-
 value_1 = input('Enter the price of item #1: ')
 value_2 = input('Enter the price of item #2: ')
 value_3 = input('Enter the price of item #3: ')
